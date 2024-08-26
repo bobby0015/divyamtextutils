@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/divyamtextutils/static/css/main.31d6cfe0.css",
+    "main.js": "/divyamtextutils/static/js/main.1a7f508f.js",
+    "static/js/453.02b6ed6f.chunk.js": "/divyamtextutils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/divyamtextutils/index.html",
+    "main.1a7f508f.js.map": "/divyamtextutils/static/js/main.1a7f508f.js.map",
+    "453.02b6ed6f.chunk.js.map": "/divyamtextutils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1a7f508f.js"
+  ]
+}
